@@ -1,2 +1,2 @@
-# gender_identification_project
-This report aims to analyse a dataset composed of various low-level face images of males and females using different Machine Learning models.
+# Gender Identification
+This report aims to analyse a dataset composed of various low-level face images of males and females using different Machine Learning models. First, we will explore the structure of the dataset and try to understand how it is distributed. Then, we will evaluate various classifiers and try to find the best system that can accurately classify our samples with the lowest cost.
